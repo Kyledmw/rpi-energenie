@@ -1,0 +1,13 @@
+{
+  "name": "rpi-energenie",
+  "version": "1.0.0",
+  "description": "Node module for the energenie rpi remote",
+  "main": "index.js",
+  "author": "Kyle Williamson",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^1.5.2",
+    "pi-gpio": "0.0.8",
+    "sleep": "^3.0.1"
+  }
+}
